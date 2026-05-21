@@ -12,3 +12,5 @@ python manage.py runserver
 Для запуска проекта со стороны клиентской части необходимо выполнить команду, находясь в папке maintenance_service_frontend_maintenance_service
 
 npm start
+
+в файле test_users находятся логины и пароли "тестовых" пользователей
